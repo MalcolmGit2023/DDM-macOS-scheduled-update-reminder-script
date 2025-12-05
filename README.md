@@ -47,5 +47,5 @@ Thank you! Dan K. Snelson for your amailzing contrinutions. I am new to Jamf and
 ---
 
 ### Disclaimer
-This script and workflow are provided as-is. Ensure you validate compatibility with your environment before deployment.
+This script and workflow are provided as-is. Ensure you validate compatibility with your environment before deployment. I did not create the script, I found the script here - https://snelson.us/2025/10/ddm-os-reminder/#B
 
